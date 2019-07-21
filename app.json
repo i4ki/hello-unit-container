@@ -1,5 +1,5 @@
 {
     "type": "container",
-    "image": "tiago4orion/helloworld:latest",
+    "image": "tiago4orion/unit-container-example:latest",
     "executable": "/unit-example"
 }
