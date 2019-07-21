@@ -1,0 +1,5 @@
+{
+    "type": "container",
+    "image": "tiago4orion/helloworld:latest",
+    "executable": "/unit-example"
+}
